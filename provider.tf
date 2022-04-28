@@ -12,4 +12,4 @@ terraform {
 provider "azurerm" {
   features {}
 }
-© 2022 GitHub, Inc.
+
